@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del PrepCourse de Henry
+Este proyecto de como crear un repositorio y clonarlo desde mi github a mi escritorio local
